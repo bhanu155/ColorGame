@@ -1,2 +1,2 @@
 # ColorGame
-JavaScript based game to guess the correct color from given RGB values .
+JavaScript based game to guess the correct color from random RGB values .
